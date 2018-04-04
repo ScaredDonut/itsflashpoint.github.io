@@ -4,7 +4,7 @@ Hey! My name is Alex, and welcome to my GitHub! I simply made this page so I can
 
 ### My Projects:
 
-[Live Tv Viewer](https://github.com/itsflashpoint/livetvviewer). - It's really bad!
+[Live Tv Viewer](https://github.com/itsflashpoint/livetvviewer). - It's really bad! Simple script that pulls data from an XML page and displays it in a "readable" format.
 
 [RRC-IBIT-BIT](https://github.com/itsflashpoint/RRC-IBIT-BIT). - My school work, not really a project but I might as well populate this section it looks a bit empty. :)
 
