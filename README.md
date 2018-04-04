@@ -1,6 +1,6 @@
 ## Welcome to my Github Page!
 
-Hey! My name is Alex, welcome to my GitHub! 
+Hey! My name is Alex, and welcome to my GitHub! I simply made this page so I can show my previous projects that I've created.
 
 ### My Projects:
 
