@@ -1,37 +1,14 @@
-## Alex Soloviev
+## Welcome to my Github Page!
 
-You can use the [editor on GitHub](https://github.com/itsflashpoint/itsflashpoint.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey! My name is Alex, welcome to my GitHub! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Projects:
 
-### Markdown
+[Live Tv Viewer](https://github.com/itsflashpoint/livetvviewer). - It's really bad!
+[RRC-IBIT-BIT](https://github.com/itsflashpoint/RRC-IBIT-BIT). - My school work, not really a project but I might as well populate this section it looks a bit empty. :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Need help?
 
-# Header 1
-## Header 2
-### Header 3
+If you need help with one of my projects please feel free to submit a new issue on the project page, and I will get back to you as soon as possible! 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsflashpoint/itsflashpoint.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
